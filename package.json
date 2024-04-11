@@ -116,7 +116,7 @@
     "eslint-plugin-node": "github:giladgd/eslint-plugin-node#dev/giladgd/fixImportExtentionFixingInTypeScript",
     "husky": "^8.0.3",
     "rimraf": "^5.0.1",
-    "semantic-release": "^21.0.7",
+    "semantic-release": "^23.0.8",
     "ts-node": "^10.9.1",
     "tslib": "^2.6.1",
     "typedoc": "^0.25.1",
